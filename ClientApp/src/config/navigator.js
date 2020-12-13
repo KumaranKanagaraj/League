@@ -1,3 +1,3 @@
 ﻿export const routeUrl = {
-    url: 'http://localhost:63004/api/dashboard',
+    url: 'https://hacker-premier-league.herokuapp.com/api/dashboard',
 }
